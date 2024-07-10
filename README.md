@@ -1,1 +1,1 @@
-!technews(https://github.com/rsolomonjr/restapi/master/technews.png?raw=true)
+![technews](https://github.com/rsolomonjr/restapi/master/technews.png?raw=true)
